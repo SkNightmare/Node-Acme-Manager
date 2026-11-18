@@ -1,0 +1,47 @@
+PolyForm Noncommercial License 1.0.0
+-----------------------------------
+
+This license allows you to use the software for noncommercial purposes.
+
+1. Definitions
+
+   "Software" means the software, code, and documentation provided under
+   this license.
+
+   "You" means the individual or entity exercising rights under this license.
+
+   "Noncommercial purposes" means any use that is not intended for or directed
+   toward commercial advantage or monetary compensation.
+
+2. Grant of Rights
+
+   Subject to the terms of this license, the copyright holder grants You a
+   world-wide, royalty-free, non-exclusive license to do the following,
+   strictly for noncommercial purposes:
+
+   a. Use the Software.
+   b. Modify the Software.
+   c. Reproduce and distribute copies of the Software.
+
+3. Restrictions
+
+   a. You MAY NOT use, sell, license, distribute, or otherwise make the
+      Software available for any commercial purposes.
+   b. You must include this license and the copyright notice in all copies
+      or substantial portions of the Software.
+
+4. Commercial Use via Separate Agreement
+
+   If You wish to use the Software for commercial purposes, You must obtain a
+   signed and cryptographically verified commercial contract from the copyright
+   holder, as detailed in the COMMERCIAL-LICENSE.md file of this repository.
+
+5. Disclaimer
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
